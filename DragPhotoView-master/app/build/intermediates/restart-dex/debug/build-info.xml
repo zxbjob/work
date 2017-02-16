@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="31946264689235"
+    token="4185196190456085512"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3172" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="7799" />
+    <task
+        name="verifier"
+        duration="270" />
+
+    <artifact
+        location="C:\Users\Administrator\Desktop\DragPhotoView-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="31946264689235"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Administrator\Desktop\DragPhotoView-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

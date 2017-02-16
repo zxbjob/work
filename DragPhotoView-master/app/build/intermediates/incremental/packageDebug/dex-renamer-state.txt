@@ -1,0 +1,7 @@
+#Wed Feb 15 17:38:31 CST 2017
+base.0=C\:\\Users\\Administrator\\Desktop\\DragPhotoView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3fcf52fb9b2d7d3c98bab91ac74fa3b43879e36a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Administrator\\Desktop\\DragPhotoView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a4e2e80468d161a9e3b8b98de18355d5adf98ee5\\classes.dex
+base.1=C\:\\Users\\Administrator\\Desktop\\DragPhotoView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a4e2e80468d161a9e3b8b98de18355d5adf98ee5
+file.0=C\:\\Users\\Administrator\\Desktop\\DragPhotoView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3fcf52fb9b2d7d3c98bab91ac74fa3b43879e36a\\classes.dex
