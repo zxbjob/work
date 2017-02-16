@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test
 afada再次提交
+=======
+test
+>>>>>>> 813e7dcd199185e733e4f461683598b1dcc48fca
