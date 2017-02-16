@@ -32,7 +32,7 @@ public class FixMultiViewPager extends ViewPager {
         try {
             return super.onInterceptTouchEvent(ev);
         } catch (IllegalArgumentException ex) {
-            Log.w(TAG, "onInterceptTouchEvent() ", ex);
+            Log.w(TAG, "viewPager onInterceptTouchEvent() ", ex);
             ex.printStackTrace();
         }
         return false;

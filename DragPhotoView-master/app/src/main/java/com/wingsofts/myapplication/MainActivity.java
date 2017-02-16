@@ -9,13 +9,13 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
-  private ImageView mImageView;
+  private ImageView view;
 
   @Override protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
     setContentView(R.layout.activity_main);
-    mImageView = (ImageView) findViewById(R.id.imageView);
+    view = (ImageView) findViewById(R.id.imageView);
   }
 
   public void onClick(View view) {
